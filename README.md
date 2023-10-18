@@ -4,10 +4,18 @@ image classification projects
 
 - cifar10 image classification
 - fashion
+- realtime camera prediction
+
+### Realtime Camera Prediction
+
+Python script for making use of AI models to predict realtime results
+
+<img src='./images/screenshots/camera_test1.png' width='200'>
+<img src='./images/screenshots/camera_test2.png' width='200'>
 
 ### Cifar 10
 
-Using the cifar 10 image classification dataset
+Using the cifar 10 image classification dataset using Convolutional nural networks
 
 - Loss: Sparse Categorical Crossentropy
 - Optimizer: Adam
@@ -23,7 +31,7 @@ Using the cifar 10 image classification dataset
 
 ### Mnist
 
-Sequential Api
+Using Sequential Api for model generation
 
 - Loss: Sparse Categorical Crossentropy
 - Optimizer: Adam
